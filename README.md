@@ -1,10 +1,10 @@
 # 👋 Hi there!
 
-### 🎮 &nbsp;About Me  
+### 🎮 About Me  
 ---
 I am a **Computer Engineer** studying at the **Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)**. I am passionate about **video game development**, programming, and technology in general.
 
-### 📌 &nbsp;Languages and tools I use:
+### 📌 Languages and tools I use:
 ---
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -19,20 +19,20 @@ I am a **Computer Engineer** studying at the **Centro Universitario de Ciencias 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  
 
-### 🎯 &nbsp;What I'm Working On  
+### 🎯 What I'm Working On  
 ---
-🚀 Currently, I am developing projects related to **augmented reality and video games**. I am interested in learning more about **software development, game design, and interactive simulations**.  
+🚀 Currently, I am developing projects related to **augmented reality and video games**. I am interested in learning more about **software development, game design, and interactive simulations**. 
 
-### 🌟 &nbsp;More About Me  
+### 🌟 More About Me  
 ---
-🎸 Besides programming, I am a musician and enjoy playing and composing on any instrument. 
+🎸 Besides programming, I am a musician and enjoy playing and composing on any instrument.  
 🧗‍♂️ I also practice **sport climbing**, always looking for new challenges.  
 
-## 📊 &nbsp;GitHub Stats  
----
+## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MCarlos7&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)  
+---
 
-### 🎧 ---Now Playing  
+### 🎧 Now Playing  
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/tay14000-mx)  
 
 ---
