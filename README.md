@@ -1,11 +1,11 @@
 # 👋 Hi there!
 
-### 🎮 About Me  
----
+## 🎮 About Me  
+
 I am a **Computer Engineer** studying at the **Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)**. I am passionate about **video game development**, programming, and technology in general.
 
-### 📌 Languages and tools I use:
----
+## 📌 Languages and tools I use:
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -19,21 +19,20 @@ I am a **Computer Engineer** studying at the **Centro Universitario de Ciencias 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  
 
-### 🎯 What I'm Working On  
----
+## 🎯 What I'm Working On  
+
 🚀 Currently, I am developing projects related to **augmented reality and video games**. I am interested in learning more about **software development, game design, and interactive simulations**. 
 
-### 🌟 More About Me  
----
+## 🌟 More About Me  
+
 🎸 Besides programming, I am a musician and enjoy playing and composing on any instrument.  
 🧗‍♂️ I also practice **sport climbing**, always looking for new challenges.  
 
 ## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MCarlos7&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)  
----
 
-### 🎧 Now Playing  
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/tay14000-mx)  
 
----
+## 🎧 Now Playing  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tay14000-mx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00b7db&interchange=true&bar_color=008a87&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+--
 If you want to collaborate or just chat about technology, video games, or music, **feel free to reach out!** 🚀🎮🎸
