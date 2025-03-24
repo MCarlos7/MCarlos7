@@ -3,7 +3,7 @@
 ## 🎮 About Me  
 
 I am a **Computer Engineer** studying at the **Centro Universitario de Ciencias Exactas e Ingenierías (CUCEI)**. I am passionate about **video game development**, programming, and technology in general.
-https://mcarlos7.github.io/Personal-Page/
+[![Miweb](https://media.tenor.com/J27wkptpHMsAAAAM/kemonito-la.gif)](https://mcarlos7.github.io/Personal-Page/)
 
 ## 📌 Languages and tools I use:
 
