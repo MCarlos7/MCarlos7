@@ -44,7 +44,7 @@ I am a **Computer Engineer** studying at the **Centro Universitario de Ciencias 
 
 ## 📊 GitHub Stats  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCarlos7&show_icons=true&theme=merko)](https://github.com/MCarlos7/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCarlos7&show_icons=true&theme=vision-friendly-dark)](https://github.com/MCarlos7/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MCarlos7&theme=rising-sun&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=595)](https://git.io/streak-stats)
 
