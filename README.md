@@ -1,4 +1,4 @@
-# 👋 Hi there!
+o# 👋 Hi there!
 
 <p align="center">
   <a href="https://mcarlos7.github.io/Personal-Page/">
@@ -45,9 +45,13 @@ I am a **Computer Engineer** studying at the **Centro Universitario de Ciencias 
 ## 📊 GitHub Stats  
 
 <p align="center">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCarlos7&show_icons=true&theme=vision-friendly-dark)](https://github.com/MCarlos7/github-readme-stats)
-
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MCarlos7&theme=rising-sun&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=595)](https://git.io/streak-stats)
+  <a href="https://github.com/MCarlos7/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=MCarlos7&show_icons=true&theme=vision-friendly-dark" alt="Anurag's GitHub stats"/>
+  </a>
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MCarlos7&theme=rising-sun&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=595" alt="GitHub Streak"/>
+  </a>
 </p>
 
 ## 🎧 Now Playing  
