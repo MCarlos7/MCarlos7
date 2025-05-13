@@ -44,9 +44,11 @@ I am a **Computer Engineer** studying at the **Centro Universitario de Ciencias 
 
 ## 📊 GitHub Stats  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCarlos7&show_icons=true&theme=vision-friendly-dark)](https://github.com/MCarlos7/github-readme-stats)
+<p align="center">
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MCarlos7&show_icons=true&theme=vision-friendly-dark)](https://github.com/MCarlos7/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MCarlos7&theme=rising-sun&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=595)](https://git.io/streak-stats)
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MCarlos7&theme=rising-sun&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=595)](https://git.io/streak-stats)
+</p>
 
 ## 🎧 Now Playing  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tay14000-mx&cover_image=true&theme=natemoo-re&show_offline=false&background_color=00b7db&interchange=true&bar_color=008a87&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
