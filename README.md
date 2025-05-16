@@ -1,4 +1,4 @@
-o# 👋 Hi there!
+# 👋 Hi there!
 
 <p align="center">
   <a href="https://mcarlos7.github.io/Personal-Page/">
